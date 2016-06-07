@@ -7,7 +7,7 @@ I provide contract services for big data and machine learning. These services in
 * Machine learning
 
 ## Projects
-* ![Pitch and Volume Extraction from Audio](https://blog4062.wordpress.com/)
+* [Pitch and Volume Extraction from Audio](https://blog4062.wordpress.com/)
 
 ## Courses
 * Machine Learning (Coursera, Andrew Ng)

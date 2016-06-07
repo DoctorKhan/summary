@@ -12,10 +12,10 @@ I provide contract services for embedded engineering.
  * Armduino (see Projects section)
 
 ## Projects
-* ![Armduino](https://github.com/boltonja/armduino/): Silicon Labs based Arduino
+* [Armduino](https://github.com/boltonja/armduino/): Silicon Labs based Arduino
  * Successfully created firmware for the SiM3U1xx ARM M3
  * Ported high level libraries to the chip
-* ![Espresso Controller](https://github.com/nickgeoca/espresso_controller/)
+* [Espresso Controller](https://github.com/nickgeoca/espresso_controller/)
  * Replaced analog PID controller of Francis Francis X5 with Arduino PID
  * Significantly improved taste
 
